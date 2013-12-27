@@ -1,2 +1,2 @@
-jQuery Latest verion
+jQuery Latest version
 ======
